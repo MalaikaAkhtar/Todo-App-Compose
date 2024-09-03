@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- res/values-ur/strings.xml -->
+        <string name="app_name">ٹودو ایپ</string>
+        <string name="todo">ٹودو</string>
+        <string name="email">ای میل</string>
+        <string name="password">پاس ورڈ</string>
+        <string name="sign_in">سائن ان</string>
+        <string name="else1">اور</string>
+        <string name="home">ہوم</string>
+        <string name="settings">ترتیبات</string>
+        <string name="discord">ڈسکارڈ</string>
+        <string name="welcome_back">خوش آمدید</string>
+        <string name="search">تلاش</string>
+        <string name="search_icon">تلاش آئکن</string>
+        <string name="all">تمام</string>
+        <string name="favorite">پسندیدہ</string>
+        <string name="edit_profile">پروفائل میں ترمیم کریں</string>
+        <string name="enter_name">نام درج کریں</string>
+        <string name="enter_nickname">عرفیت درج کریں</string>
+        <string name="save">محفوظ کریں</string>
+        <string name="general">عام</string>
+        <string name="dark_theme">ڈارک تھیم</string>
+        <string name="language">زبان</string>
+        <string name="timer">ٹائمر</string>
+        <string name="time_reset">ٹائم ری سیٹ</string>
+        <string name="timer_work">ٹائمر ورک</string>
+        <string name="add_todos">ٹودو شامل کریں</string>
+        <string name="enter_title">عنوان درج کریں</string>
+        <string name="enter_description">تفصیل درج کریں</string>
+        <string name="add">شامل کریں</string>
+        <string name="english">انگریزی</string>
+        <string name="urdu">اردو</string>
+        <string name="malaika">ملائکہ</string>
+        <string name="completed">مکمل</string>
+        <string name="sign_up">سائن اپ</string>
+        <string name="confpassword">پاس ورڈ کی تصدیق کریں</string>
+        <string name="find_account">کیا، کوئی اکاؤنٹ نہیں ملا؟</string>
+        <string name="have_account">پہلے سے ہی ایک اکاؤنٹ ہے؟</string>
+        <string name="signIn_google">گوگل کے ساتھ سائن ان کریں۔</string>
+        <string name="defautl_web_client_id">ویب کلائنٹ آئی ڈی</string>
+        <string name="sign_out">سائن آؤٹ کریں</string>
+
+</resources>
